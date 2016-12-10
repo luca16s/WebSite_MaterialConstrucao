@@ -1,2 +1,4 @@
+## Arquivos e diretórios Ignorados
 *.buildpath
 *.project
+.settings/
