@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.tabela {
+	width: 700px !important;
+}
+.titulo{
+	color:#009ae1;
+}
+.tabela tr td{
+	border: 1px solid #FF9900;
+	font-size:12px;
+}
+.corpo {
+	color:#FF9900;
+}
